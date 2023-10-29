@@ -304,6 +304,7 @@ namespace sub
 			{ 100, "Is Drunk" },
 			{ 135, "Is Scuba" },
 			{ 166, "Is Injured" },
+			{ 208, "Disable Explosion Reaction" },
 			{ 223, "Is Short Heighted (Small)" },
 			{ 450, "Is Arresting" },
 			//{ 000000, "" },
