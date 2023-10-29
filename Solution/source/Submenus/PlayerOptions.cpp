@@ -301,11 +301,11 @@ namespace sub
 			{ 32, "Can Fall Out Through Windscreen" },
 			{ 62, "Is (Nearby) Car (MAY CRASH)" },
 			{ 78, "Is Aiming Check" },
-			{ 101, "Is Aiming" },
-			{ 125, "Has Overflowing Diaper (MAY CRASH)" },
+			{ 100, "Is Drunk" },
+			{ 135, "Is Scuba" },
 			{ 166, "Is Injured" },
-			{ 187, "Is Injured In Combat" },
 			{ 223, "Is Short Heighted (Small)" },
+			{ 450, "Is Arresting" },
 			//{ 000000, "" },
 
 		};
